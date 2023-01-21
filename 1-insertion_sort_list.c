@@ -52,5 +52,3 @@ void insertion_sort_list(listint_t **list)
 
 	}
 }
->>>>>>> b4211d815891afdec7e640078a87bbc38c8be249
->>>>>>> c7f74bf7057ab9a1f7d7d6531834db08dbfd99f6
