@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 #include "sort.h"
-<<<<<<< HEAD
-=======
-
->>>>>>> 43621d488cded12383de11d975f036ca4d2d4682
-=======
 
 /**
  * merge_sort - sorts an array with the Merge Sort algorithm
@@ -82,4 +76,3 @@ void merge_subarray(int *arr, int *array, size_t left,
 	printf("[Done]: ");
 	print_array(array + left, right - left);
 }
->>>>>>> e486d5fff7aba02a0bf2c69f5d5bc98e257c92f6
