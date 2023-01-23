@@ -1,4 +1,3 @@
-#include "sort.h"
 
 /**
  * merge_sort - sorts an array with the Merge Sort algorithm
